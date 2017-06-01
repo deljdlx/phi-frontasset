@@ -1,0 +1,14 @@
+{
+	"name": "phi-frontasset",
+	"description": "Phi front assets",
+	"autoload": {
+		"psr-4": {
+			"Phi\\FrontAsset\\": "source/class"
+		},
+		"files": [
+
+		]
+	}
+}
+
+
